@@ -15,3 +15,18 @@ body{
     width: 100%;
     margin-bottom: 16px;
 }
+
+.formulario {
+    display: flex;
+}
+
+.formulario input{
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 16px;
+}
+
+.formulario button {
+    height: 100%;
+    padding: 12px;
+}
